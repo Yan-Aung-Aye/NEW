@@ -1,3 +1,2 @@
 
-num = 10;
-print(num)
+print("Hello World")
